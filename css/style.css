@@ -404,7 +404,7 @@ section {
 }
 
 .login-form-container form p a {
-  color: #27ae60;
+  color: #6ca8d0;
 }
 
 .login-form-container form p a:hover {
@@ -1185,7 +1185,7 @@ input[type="checkbox"] {
 }
 
 .btn_login {
-	background-color: #9ACD32;
+	background-color: #6ca8d0;
 	width: 100%;
 	padding: 8px 16px;
 	border-radius: 10px;
@@ -1194,7 +1194,7 @@ input[type="checkbox"] {
 	color: white;
 }
 .btn_login:hover {
-	background-color: #9ACD32;
+	background-color: #6ca8d0;
 	color: #fff;
 }
 /* style jumbotron */
