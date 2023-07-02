@@ -44,7 +44,7 @@ section {
 }
 
 .heading span {
-  font-family: 'Satisfy', cursive;
+  font-family: 'Arial', cursive;
   font-size: 3rem;
   color: #6ca8d0;
 }
@@ -798,7 +798,7 @@ section {
   border-radius: .5rem;
   padding: 2rem;
   text-align: center;
-  background: #f7f7f7;
+  background: #ffffff;
 }
 
 .order .icons-container .icons img {
